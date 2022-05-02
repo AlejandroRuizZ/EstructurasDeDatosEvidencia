@@ -1,0 +1,48 @@
+jan
+M 2: 1FRO2
+feb
+M 3: 1FRI9
+mar
+M 3: 1FRF2
+apr
+M 1: 1FRA2
+may
+M 3: 1FRG9
+jun
+M 2: 1FRZ4
+jul
+M 3: 1FRQ6
+aug
+M 4: 1FRH4
+sep
+M 5: 1FRK0
+oct
+M 4: 1FRQ3
+nov
+M 3: 1FRK1
+dec
+M 2: 1FRH5
+jan
+R 4: 1FRH4
+feb
+R 2: 1FRP4
+mar
+R 5: 1FRQ0
+apr
+R 5: 1FRX8
+may
+R 3: 1FRX5
+jun
+R 2: 1FRB6
+jul
+R 4: 1FRT8
+aug
+R 2: 1FRW2
+sep
+R 1: 1FRF1
+oct
+R 3: 1FRH6
+nov
+R 3: 1FRA8
+dec
+R 7: 1FRS0
